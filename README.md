@@ -26,8 +26,6 @@ Sou dev iniciante, começando minha carreira agora!!
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula)
 
-## 🎬 GIF de Programação
-
 ![GIF de código](https://github.com/au-pedroo/au-pedroo/blob/main/meu_gif.gif)
 
 ## 🛠️ Stack Completa
