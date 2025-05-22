@@ -28,7 +28,7 @@ Sou dev iniciante, começando minha carreira agora!!
 
 ## 🎬 GIF de Programação
 
-![GIF de código]([https://tenor.com/f5jDjQIwZDO.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJqZGo3czI2d2IyZ2dscGMxdGJyc2M2cmdnamhlazd1OXVsbms4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif))
+![GIF de código](https://github.com/au-pedroo/au-pedroo/blob/main/meu_gif.gif)
 
 ## 🛠️ Stack Completa
 - **Backend:** Java  
