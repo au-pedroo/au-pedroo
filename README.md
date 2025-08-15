@@ -20,6 +20,9 @@ Sou dev iniciante, começando minha carreira agora!!
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </div>
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
+
+
 ![GIF de código](https://github.com/au-pedroo/au-pedroo/blob/main/meu_gif.gif)
 
 ## 🛠️ Stack Completa
