@@ -1,8 +1,9 @@
 
-# Olá, eu sou [Pedro]! 👋
+# Olá, eu sou Pedro! 👋
 
-### 👨‍💻 Sobre Mim  
-Sou dev iniciante, começando minha carreira agora!!
+### </> Sobre Mim  
+Estudante de Analise e Desenvolvimento de Sistemas.
+Futuro Desenvolvedor FullStack🧑🏾‍💻
 
 ## 🚀 Linguagens e Ferramentas
 
