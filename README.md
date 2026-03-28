@@ -15,9 +15,6 @@ Futuro Desenvolvedor FullStack🧑🏾‍💻
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
 </div>
 
-## 🚀 Meus Principais Projetos
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=au-pedroo&repo=nome-do-repo&theme=tokyonight)](https://github.com/au-pedroo/nome-do-repo)
 
 
 ![GIF de código](https://github.com/au-pedroo/au-pedroo/blob/main/meu_gif.gif)
