@@ -29,7 +29,7 @@ Futuro Desenvolvedor FullStack🧑🏾‍💻
 ## 🌍 Redes Sociais & Contato
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/au_pedroo_/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://https://au-pedroo.github.io/MeuPortifolio/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://au-pedroo.github.io/MeuPortifolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-augusto-marinho-3b4bb7350)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroaugustomarinho5@gmail.com)
 <!--
