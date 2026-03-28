@@ -15,7 +15,7 @@ Futuro Desenvolvedor FullStack🧑🏾‍💻
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
 </div>
 
-![Estatísticas do GitHub](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=au-pedroo&show_icons=true&theme=tokyonight)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=au-pedroo&show_icons=true)
 
 
 ![GIF de código](https://github.com/au-pedroo/au-pedroo/blob/main/meu_gif.gif)
